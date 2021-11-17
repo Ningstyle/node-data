@@ -1,0 +1,24 @@
+{
+  "name": "node-data",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.9",
+    "cookie-parser": "^1.4.5",
+    "cookies": "^0.8.0",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-session": "^1.17.0",
+    "http-errors": "^1.6.3",
+    "jade": "~1.11.0",
+    "lodash": "^4.17.15",
+    "morgan": "~1.9.1",
+    "mysql": "^2.17.1",
+    "node-xlsx": "^0.15.0",
+    "zlib": "^1.0.5"
+  }
+}
