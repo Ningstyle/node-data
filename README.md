@@ -4,8 +4,12 @@
 
 ##### public文件夹下是配置或者公用相关文件，例如
 ##### 项目运行流程：
-##### npm install
-##### npm start
+```
+npm install
+```
+```
+npm start
+```
 ##### 启动成功请求：http://localhost:3008/business/test   测试是否成功
 ##### 1、public/javascripts/config.js是数据库链接相关配置
 ```javascript
